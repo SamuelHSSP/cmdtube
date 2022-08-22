@@ -1,9 +1,16 @@
 # CmdTube
-![CmdTube Logo](https://i.ibb.co/DGjDpph/cmdtubelogo.png)
+<p align="center">
+  <img height=300 src="https://i.ibb.co/DGjDpph/cmdtubelogo.png"/>
+</p>
+<p align="center">
+  <a href="https://pypi.org/project/cmdtube/"><img src="https://img.shields.io/pypi/dm/cmdtube?style=flat-square" alt="pypi"/></a>
+  <a href="https://pypi.org/project/pytube/"><img alt="PyPI" src="https://img.shields.io/pypi/v/cmdtube"/></a>
+  
+</p>
 
-CmdTube is a Python CLI library for searching, downloading, and watching YouTube tutorials.
+**CmdTube** is a Python CLI library for *searching*, *downloading*, *watching*, and *getting information about* YouTube tutorials.
 This library was made with programmers in mind and it's dedicated to every programmer
-who watches YouTube videos to become better.
+who watches YouTube videos to become better at coding.
 
 
 ## Table of Contents
